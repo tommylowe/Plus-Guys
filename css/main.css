@@ -100,11 +100,11 @@ Page:quotes
 /**************************
 Page: videos
 **************************/
-.happy-videos {
+/* .happy-videos {
   width: 100%
   top: 50px;
   position: relative;
-}
+} */
   /**************************
 colors
 **************************/
@@ -442,10 +442,10 @@ h5 {
 /**************************
 Page:picures
 **************************/
-.happy-pictures {
+/* .happy-pictures {
   width: 100%;
     top: 50px;
-    position: relative;
+    position: relative; */
 /*  display:block;*/
 /*  max-width:100%;*/
 /*  margin: 0 auto 30px;*/
