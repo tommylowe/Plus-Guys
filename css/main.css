@@ -1,0 +1,566 @@
+/* MAYBE DO AWAY WITH THE RED BACKGROUND & SLOW DOWN THE COLOR CHANGES???   KEEP YOUR COLORS CONSISTENT???*/
+
+
+a {
+  text-decoration: none;
+}
+
+#wrapper { 
+  max-width:100%;
+  margin:0 auto; 
+  padding: 0 35%;
+  background: transparent
+}
+
+#logo {
+  text-align: center;
+  margin: 0;  
+}
+
+div {
+  text-align: justify;
+}
+
+div:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 4.0em;
+  color: #fff
+}
+
+h2 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  color: #fff
+} 
+
+h3 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 1.00em;
+  color: #fff
+}
+
+h4 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 1.00em;
+  color: #fff
+}
+
+h5 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px ;
+  font-size: 1.75em;
+  color: #fff;
+  max-width: 100%; 
+}
+/**************************
+Page:picures
+**************************/
+.happy-pictures {
+  width: 100%;
+    top: 50px;
+    position: relative;
+/*  display:block;*/
+/*  max-width:100%;*/
+/*  margin: 0 auto 30px;*/
+/*  border-radius: 100px;*/
+}
+/**************************
+Page:index
+**************************/
+.main-picture {
+  display:block;
+  max-width:100%;
+  margin: 0 auto 10px;
+  border-radius: 100px;
+}
+/**************************
+Page:quotes
+**************************/
+.Quote-pictures {
+    width: 100%;
+    top: 50px;
+    position: relative;
+/*  display:inline-block
+  max-width: 100%;
+  margin-left: 0 auto 10px;
+  margin-right:  0 auto 10px;
+  border-radius: 80px;
+  text-align:center; */
+}
+/**************************
+colors
+**************************/
+a {
+  color: #fff;
+}
+
+header {
+  background:transparent;
+  border-color:#fff   
+}
+
+h1{
+  color:#fff;
+} 
+
+nav 
+
+h2{
+  color:#fff
+}   
+
+nav a, nav a:visited {
+  color:#000;
+}
+
+nav a.selected, nav a:hover {
+ color:#32673f 
+}
+body {
+ animation:pulse 30s infinite
+}
+
+@keyframes pulse {
+    0% { background:#f44336}
+    10%{ background:#ff0000}
+    20%{ background:#e91e63}
+    30%{ background:#9C2780}
+    40%{ background:#673ab7}
+    50%{ background:#00008b}
+    60%{ background:#33CAFF}
+    70%{ background:#33FF83}
+    80%{ background:#58B749}
+    90%{ background:#C7F314}
+  100% { background:#F9F143} 
+}
+ #nav {
+  max-width: 100%;
+  float: center;
+  list-style: none;
+  margin: 25 3px 3px 3px;
+  padding: 20 20px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: -5px;
+  
+}
+
+#nav li {
+  float: center;
+  font-family: 'Courgette', cursive;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}
+
+#nav li a {
+ display: inline;
+  padding: 8px 10px;
+text-decoration: none;
+font-weight:normal;
+border-right: 1px solid #000;
+  color: #000;
+ text-align: center;
+}
+
+
+/**************************
+media quieres
+**************************/
+  @media only screen and ( min-width: 1140px) {
+  
+/* MAYBE DO AWAY WITH THE RED BACKGROUND & SLOW DOWN THE COLOR CHANGES???   KEEP YOUR COLORS CONSISTENT???*/
+
+
+a {
+  text-decoration: none;
+}
+
+#wrapper { 
+  max-width:100%;
+  margin:0 auto; 
+  padding: 0 45%;
+  background: transparent
+}
+
+#logo {
+  text-align: center;
+  margin: 0;  
+}
+
+div {
+  text-align: justify;
+}
+
+div:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 4.0em;
+  color: #fff
+}
+
+h2 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  color: #fff
+} 
+
+h3 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 1.00em;
+  color: #fff
+}
+
+h4 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 1.00em;
+  color: #fff
+}
+
+h5 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px ;
+  font-size: 1.75em;
+  color: #fff;
+  max-width: 100%; 
+}
+/**************************
+Page:picures
+**************************/
+.happy-pictures {
+  width: 100%;
+    top: 50px;
+    position: relative;
+/*  display:block;*/
+/*  max-width:100%;*/
+/*  margin: 0 auto 30px;*/
+/*  border-radius: 100px;*/
+}
+/**************************
+Page:index
+**************************/
+.main-picture {
+  display:block;
+  max-width:100%;
+  margin: 0 auto 10px;
+  border-radius: 100px;
+}
+/**************************
+Page:quotes
+**************************/
+.Quote-pictures {
+    width: 100%;
+    top: 50px;
+    position: relative;
+/*  display:inline-block
+  max-width: 100%;
+  margin-left: 0 auto 10px;
+  margin-right:  0 auto 10px;
+  border-radius: 80px;
+  text-align:center; */
+}
+/**************************
+colors
+**************************/
+a {
+  color: #fff;
+}
+
+header {
+  background:transparent;
+  border-color:#fff   
+}
+
+h1{
+  color:#fff;
+} 
+
+nav 
+
+h2{
+  color:#fff
+}   
+
+nav a, nav a:visited {
+  color:#000;
+}
+
+nav a.selected, nav a:hover {
+ color:#32673f 
+}
+body {
+ animation:pulse 30s infinite
+}
+
+@keyframes pulse {
+    0% { background:#f44336}
+    10%{ background:#ff0000}
+    20%{ background:#e91e63}
+    30%{ background:#9C2780}
+    40%{ background:#673ab7}
+    50%{ background:#00008b}
+    60%{ background:#33CAFF}
+    70%{ background:#33FF83}
+    80%{ background:#58B749}
+    90%{ background:#C7F314}
+  100% { background:#F9F143} 
+}
+ #nav {
+  max-width: 100%;
+  float: center;
+  list-style: none;
+  margin: 25 3px 3px 3px;
+  padding: 20 20px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: -5px;
+  
+}
+
+#nav li {
+  float: center;
+  font-family: 'Courgette', cursive;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}
+
+#nav li a {
+ display: inline;
+  padding: 8px 10px;
+text-decoration: none;
+font-weight:normal;
+border-right: 1px solid #000;
+  color: #000;
+ text-align: center;
+}
+
+
+}
+
+
+
+
+
+
+
+/* MAYBE DO AWAY WITH THE RED BACKGROUND & SLOW DOWN THE COLOR CHANGES???   KEEP YOUR COLORS CONSISTENT???
+
+
+a {
+  text-decoration: none;
+}
+
+#wrapper { 
+  max-width:100%;
+  margin:0 auto; 
+  padding: 0 45%;
+  background: transparent
+}
+
+#logo {
+  text-align: center;
+  margin: 0;  
+}
+
+div {
+  text-align: justify;
+}
+
+div:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 4.0em;
+  color: #fff
+}
+
+h2 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  color: #fff
+} 
+
+h3 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 1.00em;
+  color: #fff
+}
+
+h4 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px 0;
+  font-size: 1.00em;
+  color: #fff
+}
+
+h5 {
+  font-family: 'Baloo Bhaina' , sans-serif;
+  margin: 15px ;
+  font-size: 1.75em;
+  color: #fff;
+  max-width: 100%; 
+}
+/**************************
+Page:picures
+**************************/
+.happy-pictures {
+  width: 100%;
+    top: 50px;
+    position: relative;
+/*  display:block;*/
+/*  max-width:100%;*/
+/*  margin: 0 auto 30px;*/
+/*  border-radius: 100px;*/
+}
+/**************************
+Page:index
+*************************
+.main-picture {
+  display:block;
+  max-width:100%;
+  margin: 0 auto 10px;
+  border-radius: 100px;
+}
+/**************************
+Page:quotes
+*************************
+.Quote-pictures {
+    width: 100%;
+    top: 50px;
+    position: relative;
+/*  display:inline-block
+  max-width: 100%;
+  margin-left: 0 auto 10px;
+  margin-right:  0 auto 10px;
+  border-radius: 80px;
+  text-align:center; */
+}
+/**************************
+colors
+*************************
+a {
+  color: #fff;
+}
+
+header {
+  background:transparent;
+  border-color:#fff   
+}
+
+h1{
+  color:#fff;
+} 
+
+nav 
+
+h2{
+  color:#fff
+}   
+
+nav a, nav a:visited {
+  color:#000;
+}
+
+nav a.selected, nav a:hover {
+ color:#32673f 
+}
+body {
+ animation:pulse 30s infinite
+}
+
+@keyframes pulse {
+    0% { background:#f44336}
+    10%{ background:#ff0000}
+    20%{ background:#e91e63}
+    30%{ background:#9C2780}
+    40%{ background:#673ab7}
+    50%{ background:#00008b}
+    60%{ background:#33CAFF}
+    70%{ background:#33FF83}
+    80%{ background:#58B749}
+    90%{ background:#C7F314}
+  100% { background:#F9F143} 
+}
+ #nav {
+  max-width: 100%;
+  float: center;
+  list-style: none;
+  margin: 25 3px 3px 3px;
+  padding: 20 20px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: -5px;
+  
+}
+
+#nav li {
+  float: center;
+  font-family: 'Courgette', cursive;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}
+
+#nav li a {
+ display: inline;
+  padding: 8px 10px;
+text-decoration: none;
+font-weight:normal;
+border-right: 1px solid #000;
+  color: #000;
+ text-align: center;
+} 
+  /*
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+
+
+
+
