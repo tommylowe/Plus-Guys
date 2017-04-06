@@ -98,6 +98,13 @@ Page:quotes
   text-align:center; */
 }
 /**************************
+Page: videos
+**************************/
+.happy-videos {
+  width: 100%
+  top: 50px;
+  position: relative;
+  /**************************
 colors
 **************************/
 a {
